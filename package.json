@@ -27,7 +27,7 @@
 	"homepage": "https://github.com/PrincessRTFM/node-ddate",
 	"bugs": "https://github.com/PrincessRTFM/node-ddate/issues",
 	"dependencies": {
-		"chalk": "^3.0.0",
+		"chalk": "^4.0.0",
 		"conf": "^6.2.4",
 		"log-update": "^3.4.0",
 		"np": "^6.3.2"
